@@ -3,7 +3,6 @@ server:
 spring:
   application:
     name: order-service
-  ......
   cloud:
     config:
       override-none: true
